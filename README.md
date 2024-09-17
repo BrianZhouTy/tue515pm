@@ -7,7 +7,7 @@ Tue 5:15pm class repo
 https://drive.google.com/drive/folders/17595pAW3IGaAoC30RpS5__7dla1eWO0q?usp=sharing
 
 ## Student repos (for coding hw)
-
+```
 Sophia Chen: @SofiaChen12
 Batu: @BatuhanIskender
 Michael: @michaelwangsd88
