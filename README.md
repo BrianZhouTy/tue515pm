@@ -8,7 +8,6 @@ https://drive.google.com/drive/folders/17595pAW3IGaAoC30RpS5__7dla1eWO0q?usp=sha
 
 ## Student repos (for coding hw)
 ```
-<<<<<<< HEAD
 Sofia Chen: a-normal-username
 Batu: 
 Michael: nullandvoid
@@ -21,7 +20,6 @@ Isaac: AmongSus876
 Brian: brianzhouty
 Zhizhen: JJBread55
 ```
-=======
 Sophia Chen: @SofiaChen12
 Batu: @BatuhanIskender
 Michael: @michaelwangsd88
@@ -33,4 +31,3 @@ Crystal: @shawdowflame230
 Isaac:@hysdca
 Brian: @brianzhouty
 ```
->>>>>>> a86043b92937b5dfc14a1996fc96130ac60f5216
