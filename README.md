@@ -20,7 +20,7 @@ Isaac: AmongSus876
 Brian: brianzhouty
 Zhizhen: JJBread55
 ```
-Sophia Chen: @SofiaChen12
+<!-- Sophia Chen: @SofiaChen12
 Batu: @BatuhanIskender
 Michael: @michaelwangsd88
 Casey: @caseytringuyen
@@ -30,4 +30,4 @@ Jayoon: @mrjy1227
 Crystal: @shawdowflame230
 Isaac:@hysdca
 Brian: @brianzhouty
-```
+``` -->
